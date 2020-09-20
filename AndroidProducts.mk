@@ -13,6 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/superior_dream2lte.mk
 COMMON_LUNCH_CHOICES := \
     superior_dream2lte-userdebug
